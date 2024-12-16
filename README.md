@@ -1,4 +1,4 @@
-Hi, I'm a full-time game developer graduated in 2024.
+Hi, I'm a full-time game programmer.
 
 In 2023, I interned at Unity China and published my game production experience at the Unity Open Day Beijing Station.
 
