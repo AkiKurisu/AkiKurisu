@@ -7,14 +7,6 @@ Full-time game programmer at a leading game company, focusing on Unreal Engine 5
 
 Love experimenting with Unity, blending cutting-edge tech into game creation.
 
-🏆 Achievements:
-
-Evolution Contract (2023)
-🏅 Innovative Game Design Award – 2023 Eagle Point Pioneer Core
-🎖️ Shortlisted for Best Game Design & Best Strategy Game – 3rd CUSGA National College Student Game Development Competition
-
-Former Unity China Intern, speaker at Unity Open Day Beijing Station.
-
 🔧 Tech Stack:
 
 Unreal Engine 5 | Unity
