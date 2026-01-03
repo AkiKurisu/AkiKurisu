@@ -3,7 +3,7 @@
 
 👾 About Me:
 
-Full-time game programmer at a leading game company, focusing on Unreal Engine 5 gameplay development.
+Full-time game programmer at a leading game company, focusing on Unreal Engine game development.
 
 Love experimenting with Unity, blending cutting-edge tech into game creation.
 
