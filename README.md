@@ -3,7 +3,7 @@
 
 👾 About Me:
 
-Full-time game programmer at a leading game company, focusing on Unreal Engine game development.
+Full-time game programmer at an anime game company.
 
 Love experimenting with Unity, blending cutting-edge tech into game creation.
 
